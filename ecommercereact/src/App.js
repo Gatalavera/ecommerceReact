@@ -14,7 +14,6 @@ function App() {
     <DataProvider>
     <div className="App">
       <BrowserRouter>
-     
         <Header />
         <Carrito/>
         <Paginas/>

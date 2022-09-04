@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
 const Footer = () => {
   return (
          <div id='bg' className="row w-100 p-3 m-0 text-white">
